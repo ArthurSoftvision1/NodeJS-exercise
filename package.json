@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurSoftvision1/NodeJS-exercise.git"
+  },
+  "author": "Arthur Molnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurSoftvision1/NodeJS-exercise/issues"
+  },
+  "homepage": "https://github.com/ArthurSoftvision1/NodeJS-exercise#readme"
+}
